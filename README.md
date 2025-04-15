@@ -9,7 +9,7 @@ Welcome to the 100 Days of Python challenge! 🚀 This repository contains 100 d
 - Build a strong Python foundation
 
 ## 📌 How to Use?
-- Clone this repo: git clone https://github.com/your-username/100-days-of-python.git
+- Clone this repo: git clone https://github.com/Namanlko/100-days-of-python.git
 - Navigate day-wise and follow along
 - Run the scripts and tweak them for deeper understanding
 - Star ⭐ the repo if you find it helpful!
