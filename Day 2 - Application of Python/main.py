@@ -1,0 +1,1 @@
+print("Welcome to Day 2 of 100 days of code. Let me start with a story!")
