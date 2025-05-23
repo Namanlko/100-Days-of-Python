@@ -1,4 +1,4 @@
-# Day 5 - Comments, Escape sequence & Print Function
+# Day 5: Comments, Escape sequence & Print Function
 
 Welcome to Day 5 of 100 Days Of Code. Today we will talk about Comments, Escape Sequences and little bit more about print statement in Python.
 We will also throw some light on Escape Sequences.
