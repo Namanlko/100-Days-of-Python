@@ -1,4 +1,4 @@
-# Day 7 - Create a Calculator
+# Day 7: Create a Calculator
 Python has different types of operators for different operations. To create a calculator we require arithmetic operators.
 
 ### Arithmetic Operators:
