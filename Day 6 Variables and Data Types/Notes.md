@@ -42,7 +42,7 @@ Boolean data consists of values True or False.
 
 ## 4. Sequenced Data: list, tuple
     
-**list:**  A list is an ordered collection of data with elements separated by a comma and enclosed within square brackets. Lists are mutable and can be modified after creation.
+**List:**  A list is an ordered collection of data with elements separated by a comma and enclosed within square brackets. Lists are mutable and can be modified after creation.
 
 **Example:**
 
@@ -75,7 +75,7 @@ print(tuple1)
 
 ### 5) Mapped Data: dict
     
-**dict:** A dictionary is an unordered collection of data containing a key:value pair. The key:value pairs are enclosed within curly brackets.
+**Dict:** A dictionary is an unordered collection of data containing a key:value pair. The key:value pairs are enclosed within curly brackets.
 
 **Example:**
 
