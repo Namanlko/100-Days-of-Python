@@ -25,7 +25,7 @@ print("Thank you")
 .
 .
 .
-50 Mississippi
+50 Thank you
 ```
 
 ### Continue Statement
