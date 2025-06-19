@@ -1,4 +1,4 @@
-# 📘 100 Days of Python Programming 😃
+# 📘 100 Days of Python Programming Challenge 😃
 
 Welcome to the 100 Days of Python challenge! 🚀 This repository contains 100 days of Python programming practice to improve our coding skills, strengthen our understanding of Python, and build real-world projects & scripts 🔥
 
