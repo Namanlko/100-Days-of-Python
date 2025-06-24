@@ -13,7 +13,7 @@ hey I am good
 print("Hello, " + name)
 print(apple) 
 
-# 4. String Indexing. In Python indexing always start with 0 and python also as negative indexing.
+# 4. String Indexing. In Python indexing always start with 0 and python also has negative indexing.
 print(name[0])
 print(name[1])
 print(name[2])
