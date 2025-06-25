@@ -15,11 +15,11 @@ print(num)
 ```
 **Output:**
 ```
-['blue', 'green', 'indigo', 'voilet']\
+['blue', 'green', 'indigo', 'voilet']
 [1, 1, 2, 2, 2, 3, 4, 5, 6, 7, 8, 9]
  
 ```
-What if you want to print the list in descending order?\
+What if you want to print the list in descending order?
 We must give reverse=True as a parameter in the sort method.
 
 **Example 2:**
